@@ -3,7 +3,8 @@
 A note-taking application built with Flutter and Firebase, supporting e-mail and google authentication options, real-time syncing and CRUD operations.
 
 ✨ Features
- Firebase Authentication – Secure login system for each user.
+ Firebase Authentication – Secure login system for each user. 
+ 
  Firestore Integration – Notes are stored in Firestore with real-time updates.
  Create, Read, Update, Delete (CRUD) – Fully functional note editor.
  Mark as Completed – Make a To-Do List and track pending and completed task with percentage of pending tasks displayed dynamically.
